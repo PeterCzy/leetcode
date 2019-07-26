@@ -1,3 +1,7 @@
 3. Longest Substring Without Repeating Characters
   Approach: Sliding window opt
   Increasing head pointer, if the charactor exists, move the tail pointer to the previous same charactor +1.
+  
+11. Container With Most Water
+  Approach: Two pointer closer
+  As the area depends on the shorter bound, so we move the shorter bound to find the higher bound and the max area.
