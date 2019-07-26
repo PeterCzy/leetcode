@@ -11,7 +11,7 @@
   
 16. 3Sum Closest
   How to sort Array?
-  a. Bubble Sort
+  - Bubble Sort
     move the biggest to the last one(or smallest to first one) and gradually reduce the size of array.
-  c. **qsort**
+  - **qsort**
     Using qsort() function
