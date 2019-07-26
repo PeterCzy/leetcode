@@ -12,4 +12,7 @@
 16. 3Sum Closest
   How to sort Array?
   a. Bubble Sort: move the biggest to the last one(or smallest to first one) and gradually reduce the size of array.
-  b. qsort()
+  b. qsort().
+
+19. Remove Nth Node From End of List
+  Remember to free the space of deleted node.
