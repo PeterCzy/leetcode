@@ -15,4 +15,5 @@
   b. qsort().
 
 19. Remove Nth Node From End of List
-  Remember to free the space of deleted node.
+  a. Remember to free the space of deleted node.
+  b. To get the Nth node From end, you can place a node after the 1st node n times.
