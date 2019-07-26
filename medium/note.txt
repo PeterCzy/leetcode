@@ -1,1 +1,3 @@
-
+3. Longest Substring Without Repeating Characters
+  Approach: Sliding window opt
+  Increasing head pointer, if the charactor exists, move the tail pointer to the previous same charactor +1.
