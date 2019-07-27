@@ -21,3 +21,6 @@
 22. Generate Parentheses
   **difficult**
   Using recursion.
+  
+29. Divide Two Integers**
+  Using bit shift to locate the goal.
