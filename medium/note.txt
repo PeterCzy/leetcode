@@ -28,3 +28,6 @@
 31. Next Permutation**
   Keep calm when can't find the bugs. LOL
   memcpy(), qsort(), memset()
+
+33. Search in Rotated Sorted Array
+  Binary Search.**
