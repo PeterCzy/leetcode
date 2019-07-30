@@ -36,5 +36,4 @@
   modified binary search.**
 
 39. Combination Sum
-  back-tracking
-  not accepted, don't know why, even other answer the same.
+  back-tracking**
