@@ -38,3 +38,9 @@
 39. Combination Sum
   back-tracking**
   not elegant as waste lots of space. The version using "realloc" to allocate space dynamiclly were accepted.
+  update: allocate space dynamiclly implemented in 46.
+
+46. Permutations
+  back-tracking**
+  Allocate space dynamiclly.
+  
