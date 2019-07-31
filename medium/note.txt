@@ -46,3 +46,7 @@
   
 49. Group Anagrams
   Slow but using the least space.
+
+50. Pow(x, n)
+  Great! **
+  learned from others.
