@@ -50,3 +50,7 @@
 50. Pow(x, n)
   Great! **
   learned from others.
+
+56. Merge Intervals
+  Use bubble sort at first, but slow.
+  Use qsort() to sort a 2-dimension array.**
