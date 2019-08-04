@@ -54,3 +54,7 @@
 56. Merge Intervals
   Use bubble sort at first, but slow.
   Use qsort() to sort a 2-dimension array.**
+
+62. Unique Paths
+  Dynamic scheduling. **
+  dft is OK and do the same actions but slow.
